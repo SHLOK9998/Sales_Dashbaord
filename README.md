@@ -148,8 +148,8 @@ This dashboard is valuable for:
 
 ## 📬 Contact
 
-**Created by:** Shlok Panchal
-**LinkedIn:**[www.linkedin.com/in/panchalshlok](http://www.linkedin.com/in/panchalshlok)
+**Created by:** Shlok Panchal\n
+**LinkedIn:**[www.linkedin.com/in/panchalshlok](http://www.linkedin.com/in/panchalshlok)\n
 **Email:** shlokpanchal1812@gmail.com
 
 ---
